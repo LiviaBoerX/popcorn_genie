@@ -2,7 +2,8 @@
 IMDb filtering script that suggests movies based on user preferences
 
 Popcorn Genie v1.0
- 
+
+Disclaimer: You need the IMDb CSV file to run this script. Link to download here: https://mega.nz/file/XFZTgKRK#zUVJ-qCbNN5TEDCztCFQ3shPeZYdakRjUdSYfeHaT4A
  
 Project Description
 This group project – created by students at the University of St. Gallen – focuses on the design, implementation and testing of Python programs to process data files and extract meaningful information from them.
