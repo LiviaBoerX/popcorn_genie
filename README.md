@@ -3,6 +3,7 @@ IMDb filtering script that suggests movies based on user preferences
 
 Popcorn Genie v1.0
  
+ 
 Project Description
 This group project – created by students at the University of St. Gallen – focuses on the design, implementation and testing of Python programs to process data files and extract meaningful information from them.
  
@@ -37,7 +38,8 @@ Criteria are split by commas.
  
 Note that Python uses zero-based indexing, meaning that when data is put in a list the first value (State) will be found by taking the 0th index of the list.
  
-The database is uploaded together with the document on github. 
+The document on github. The database can be downloaded through the following link: https://mega.nz/file/XFZTgKRK#zUVJ-qCbNN5TEDCztCFQ3shPeZYdakRjUdSYfeHaT4A
+
   
 Project Deliverable
 The deliverable for this project is the following files:
@@ -435,5 +437,8 @@ Average rating: 8.1
 Genre: Drama, Music, Romance
 Languages supported: English, French, Italian
 Length of movie: 169 min
+
+
+
 
 
